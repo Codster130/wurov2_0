@@ -12,3 +12,4 @@ adafruit-circuitpython-servokit
 opencv-python
 numpy
 rospy
+OpenCV
